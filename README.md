@@ -6,6 +6,6 @@ An Encryption, Decryption & BlindIndex Search bundle made with PHP.
 ## Features
 ### Encryption
 
-#### Decryption
+### Decryption
 
 ### Blind Index
