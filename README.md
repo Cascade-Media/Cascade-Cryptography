@@ -1,11 +1,11 @@
 # Cascade-Cryptography
 An Encryption, Decryption & BlindIndex Search bundle made with PHP.
 
-#More Information coming soon
+# More Information coming soon
 
 ## Features
-###Encryption
+### Encryption
 
-####Decryption
+#### Decryption
 
-###Blind Index
+### Blind Index
