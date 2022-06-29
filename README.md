@@ -5,11 +5,11 @@ The purpose of this package is to help simplify the process of Cryptography usin
 # More Information coming soon
 
 ## State 
-[✔️] Encryption
-[✔️] Decryption
-[➖] Blind Index
-[❌] asymmetric encryption
-[❌] Key Splitting
+[✔️] Encryption  
+[✔️] Decryption  
+[➖] Blind Index  
+[❌] Asymmetric encryption  
+[❌] Key Splitting  
 
 
 ## Features
