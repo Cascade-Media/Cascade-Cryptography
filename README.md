@@ -1,4 +1,4 @@
-# Cascade Cryptography
+# About Cascade Cryptography
 An Encryption, Decryption & BlindIndex Search bundle made with PHP.  
 The purpose of this package is to help simplify the process of Cryptography using Sodium.  
 
