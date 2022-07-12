@@ -22,7 +22,7 @@ Updated: 2022 07 12 - 02:03 GMT
 [✔️] Encryption  
 [✔️] Decryption  
 [➖] Blind Index  
-[➖] Unit Tests
+[➖] Unit Tests  
 [❌] Asymmetric encryption  
 [❌] Key Splitting  
 
