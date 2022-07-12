@@ -7,8 +7,8 @@ The Cryptography.php file contains AEAD_XCHACHA20_POLY1305_IETF Encryption and D
 
 Additionally, the Cryptography class offers methods to hash and salt passwords using the Argon2ID alogorithm.  
 
-## > **Warning** 
-> Security_Issues
+## Security_Issues
+> **Warning** 
 For any security issue reports, please contact the author with the processed used for vulnerabilites discovered.
 Do not report elsewhere. 
 
