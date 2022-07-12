@@ -37,22 +37,21 @@ Updated: 2022 07 12 - 02:03 GMT
 ### Asymmetric encryption
 
 ### Key Splitting
-Act of splitting key into parts for to mitigate full key compromise in use of encryption & Decryption.
+Act of splitting key into parts for to mitigate full key compromise in use of encryption & Decryption.  
 
-## Cipher Information
+## Cipher Information  
+### AEAD_XCHACHA20_POLY1305_IETF  
+see https://doc.libsodium.org/secret-key_cryptography/aead  
 
-### AEAD_XCHACHA20_POLY1305_IETF
-see https://doc.libsodium.org/secret-key_cryptography/aead
+#### Cipher Availability and interoperability  
+- Key Size: 256 Bits  
+- Nonce Size: 192 Bits   
+- Block Size: 512 Bits  
 
-#### Cipher Availability and interoperability
-- Key Size: 256 Bits
-- Nonce Size: 192 Bits 
-- Block Size: 512 Bits
+#### Cipher Limitations  
+Max Bytes for a single (Key, Nonce): No Practical limits (~2^64 Bytes).  
+Max Bytes for a single Key: Up to 2^64* messages, no practical total size limits.  
 
-#### Cipher Limitations
-Max Bytes for a single (Key, Nonce): No Practical limits (~2^64 Bytes)
-Max Bytes for a single Key: Up to 2^64* messages, no practical total size limits
-
-#### Security Notes
-Sodium_bin2hex offers side-channel atteck attack mitigation.
+#### Security Notes  
+Sodium_bin2hex offers side-channel atteck attack mitigation.  
 see https://owasp.org/www-pdf-archive/Side_Channel_Vulnerabilities.pdf
