@@ -20,9 +20,9 @@ Updated: 2022 07 21 - 01:51 GMT
 
 ## Development State 
 [✔️] Symmetric Encryption  
-[➖] Asymmetric Encryption     
+[❌] Asymmetric Encryption     
 [➖] Blind Index  
-[➖] Key Splitting  
+[❌] Key Splitting  
 [➖] Side-Channel Attack Prevention  
 [✔️] Password Hashing & Salting  
 [➖] Unit Tests  
