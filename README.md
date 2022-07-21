@@ -28,13 +28,11 @@ Updated: 2022 07 12 - 02:03 GMT
 
 
 ## Features
-### Encryption
+### Symmetric Encryption
 
-### Decryption
+### Asymmetric Encryption
 
 ### Blind Index
-
-### Asymmetric encryption
 
 ### Key Splitting
 Act of splitting key into parts for to mitigate full key compromise in use of encryption & Decryption.  
