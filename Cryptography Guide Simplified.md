@@ -1,5 +1,5 @@
 # Cryptography Guide Simplified
 
 ## About
-This guide has been created to help beginners breakdown the complexity of researching and understanding cryptography.    
+This guide is being created to help beginners breakdown the complexity of researching and understanding cryptography.    
 The guide will be making use of examples in PHP utilising [Sodium](https://www.php.net/manual/en/book.sodium.php) & [Argon2](https://wiki.php.net/rfc/argon2_password_hash_enhancements)
