@@ -24,8 +24,8 @@ Updated: 2022 07 21 - 01:51 GMT
 [❌] Asymmetric Encryption     
 [➖] Blind Index  
 [❌] Key Splitting  
-[➖] Side-Channel Attack Prevention
-[✔️] Password Hashing & Salting
+[➖] Side-Channel Attack Prevention  
+[✔️] Password Hashing & Salting  
 [➖] Unit Tests  
 
 ## Cipher Information  
