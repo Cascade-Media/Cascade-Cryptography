@@ -19,21 +19,14 @@ Created: 2021 12 22 - 01:45 GMT
 Updated: 2022 07 21 - 01:51 GMT  
 
 ## Development State 
+
 [✔️] Symmetric Encryption  
 [❌] Asymmetric Encryption     
 [➖] Blind Index  
 [❌] Key Splitting  
+[➖] Side-Channel Attack Prevention
+[✔️] Password Hashing & Salting
 [➖] Unit Tests  
-
-## Features
-### Symmetric Encryption
-
-### Asymmetric Encryption
-
-### Blind Index
-
-### Key Splitting
-Act of splitting key into parts for to mitigate full key compromise in use of encryption & Decryption.  
 
 ## Cipher Information  
 ### AEAD_XCHACHA20_POLY1305_IETF  
