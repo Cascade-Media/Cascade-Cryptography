@@ -8,7 +8,7 @@ Additionally, the Cryptography class offers methods to hash and salt passwords u
 
 ## Security Issues
 > **Warning** 
-For any security issue reports, please contact the author with the processed used for vulnerabilites discovered.
+For any security issue reports, please contact the author with the processed used for vulnerabilites discovered.  
 Do not report elsewhere. 
 
 ## General Issues
