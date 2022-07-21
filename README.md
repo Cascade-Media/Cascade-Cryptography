@@ -47,6 +47,7 @@ see https://doc.libsodium.org/secret-key_cryptography/aead
 - Key Size: 256 Bits  
 - Nonce Size: 192 Bits   
 - Block Size: 512 Bits  
+- MAC size: 128 bits
 
 #### Cipher Limitations  
 Max Bytes for a single (Key, Nonce): No Practical limits (~2^64 Bytes).  
